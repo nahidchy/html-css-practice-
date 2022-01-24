@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+    color: lime;
+}
+.heading-2{
+    color:lightgreen;
+}
+.color{
+    color: rgb(104, 155, 9);
+}
+.family-member{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
